@@ -4,8 +4,11 @@ redux alone
 Things I learnt:
 
 // Redux store
+
 // Things that we know and don't know
+
 // 1- there is only one store for our entire application
+
 // 2- allows access to the state via getState()
 // 3- provides 'dipatch(action)' to update the state
 // 4- allows our application to register listeners via the 'subscribe(listener) => function',
